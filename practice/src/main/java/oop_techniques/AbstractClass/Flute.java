@@ -1,4 +1,4 @@
-package oop_techniquesAbstractClass;
+package oop_techniques.AbstractClass;
 
 public class Flute extends Instrument {
 

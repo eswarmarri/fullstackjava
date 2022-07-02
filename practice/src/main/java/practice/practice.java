@@ -1,6 +1,6 @@
 package practice;
 
-import oop_techniquesAbstractClass.*;
+import oop_techniques.AbstractClass.*;
 
 public class practice {
 

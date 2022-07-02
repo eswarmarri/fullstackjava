@@ -1,4 +1,4 @@
-package oop_techniques.mail;
+package oop_techniques.mails;
 
 public class document {
 	private String text;

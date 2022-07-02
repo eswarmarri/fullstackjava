@@ -1,7 +1,7 @@
 /**
  * 
  */
-package oop_techniquesAbstractClass;
+package oop_techniques.AbstractClass;
 
 /**
  * @author eswar
