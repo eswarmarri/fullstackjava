@@ -1,17 +1,13 @@
 package practice;
-
-import oop_techniques.AbstractClass.*;
-
+import threads.*;
+import threads.seperate.Randomandfact;
+import threads.seperate.Threadforfact;
+import threads.seperate.Threadforrandom;
 public class practice {
+	public static Integer a;
 
 	public static void main(String[] args) {
-		Instrument[] instruments = new Instrument[3];
-		instruments[0] = new Piano();
-		instruments[1] = new Flute();
-		instruments[2] = new Guitar();
-		for(Instrument i: instruments)
-		{
-			i.play();
-		}
+		Randomandfact rf = new Randomandfact();
+		
 	}
 }
