@@ -7,7 +7,8 @@ public class practice {
 	public static Integer a;
 
 	public static void main(String[] args) {
-		Randomandfact rf = new Randomandfact();
+		printtime pr = new printtime();
+		pr.start();
 		
 	}
 }
